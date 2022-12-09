@@ -4,6 +4,6 @@
 
 如何安装pillow库：
 
-’’’
+```
 pip install pillow
-’’’
+```
