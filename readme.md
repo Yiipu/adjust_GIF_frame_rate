@@ -1,0 +1,2 @@
+用python调整gif的帧率，并保持gif播放速度不变
+依赖pillow库
