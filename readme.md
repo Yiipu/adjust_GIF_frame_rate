@@ -7,3 +7,5 @@
 ```
 pip install pillow
 ```
+
+程序将会处理根目录下所有gif文件，并自动创建frames和output文件夹
